@@ -180,7 +180,7 @@ var WHATSAPP_URL = 'https://wa.me/55XXXXXXXXXXX';
         '</div>' +
 
         '<div class="calc-field">' +
-          '<label class="calc-label">Nome <span class="calc-optional">(opcional)</span></label>' +
+          '<label class="calc-label">Nome <span class="calc-optional"></span></label>' +
           '<input type="text" class="calc-input" id="inputNome" placeholder="Seu nome" value="' + state.nome + '">' +
         '</div>' +
         '<div class="calc-field">' +
