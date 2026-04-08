@@ -286,6 +286,7 @@ var WHATSAPP_URL = 'https://wa.me/55XXXXXXXXXXX';
     if (!WEBHOOK_URL || WEBHOOK_URL.indexOf('SEU_WEBHOOK') !== -1) return;
     fetch(WEBHOOK_URL, {
       method: 'POST',
+      mode: 'no-cors',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         nome:                state.nome,
