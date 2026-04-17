@@ -1,7 +1,7 @@
 // ============================================================
 // CONFIGURAÇÃO — substituir antes de publicar
 // ============================================================
-var WEBHOOK_URL = "https://hook.us2.make.com/v5rc7xl1uodqohsa0h4j3hqp1ujxfa5r";
+var WEBHOOK_URL = "https://hook.eu2.make.com/tfaiyllqn6pq1do6hvoz2ofird6ivwmb";
 var WHATSAPP_URL =
   "https://wa.me/554731703546?text=Oi%2C%20eu%20vim%20do%20site%20da%20equipara%C3%A7%C3%A3o%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.";
 
